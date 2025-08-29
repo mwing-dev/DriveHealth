@@ -22,7 +22,7 @@ in XML format. Those XML files are what DriveHealth.Maui parses and displays.
 Official DiskSpd repository:
 https://github.com/microsoft/diskspd
 
-example DiskSpd command to generate XML report:
+example DiskSpd powershell to generate XML report:
 
    ```
    # Run diskspd and capture XML
