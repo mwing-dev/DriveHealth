@@ -8,6 +8,8 @@ You can see:
  - Each location with its worst (highest) average read latency (ms)
  - Each PC inside a location with its average read latency (ms)
  - A breakdown of all PC's in the summary tab
+ 
+Download from the Microsoft Store [HERE](https://apps.microsoft.com/store/detail/9P1RRLPXL1B0?cid=DevShareMCLPCS)
 
 ----------------------------------------------------------------------
 Report Source
